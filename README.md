@@ -31,17 +31,35 @@ SIKEAN's sales analysis of 113k records across 2021 and 2022 shows for 2022 that
 
 - Office Suplies are the 60% of our total sales, same percentage as the previous year.
 
-- Office Suplies and Technology sales declined by 1.2-1.4% than previous year, when Furniture sales are 0.7% more than 2021.
+- Office Suplies and Technology sales declined by 1.2-1.4%, when Furniture sales are 0.7% more in 2022.
 
   ![image](https://github.com/user-attachments/assets/835e59af-6b42-475f-b945-6c00e3e94efa)
 
 #### Product Performance
 
+  ![image](https://github.com/user-attachments/assets/613c5267-6bfe-4403-89df-b9675be9c8dc)
 
-![image](https://github.com/user-attachments/assets/613c5267-6bfe-4403-89df-b9675be9c8dc)
+#### Customer Region and State
 
+- For 2022, 60% of our YTD sales were coming from West, especially California and East, especially New York.
 
-  
+  ![image](https://github.com/user-attachments/assets/bdbd7a4c-ca9d-4b77-a921-77a105d2a161)
+  ![image](https://github.com/user-attachments/assets/db00f42a-5dbf-4f07-9b02-7209e38d46c1)
+
+#### Customer Segment
+
+- Consumers:
+
+  ![image](https://github.com/user-attachments/assets/9b23667f-b7f4-439f-b6c1-e5aa9535db9a)
+
+- Corporate:
+
+  ![image](https://github.com/user-attachments/assets/afdc4868-27b7-49bf-80c7-300f5adfb979)
+
+- Home Office:
+
+  ![image](https://github.com/user-attachments/assets/32bd24c5-abc3-47dc-82a7-32915212b7a9)
+
 
 
 ## **Recommendations**
