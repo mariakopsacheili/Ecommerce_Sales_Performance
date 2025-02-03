@@ -25,8 +25,6 @@ SIKEAN's sales analysis of 113k records across 2021 and 2022 shows for 2022 that
 
 - Both profit and margin is higher than 2021 with profit to be 4.5% more and margin surged 5.4% more. A further analysis is needed here in order to understand why we had less sales but more profit. Was it because we increased our product prices or because we had more sales on expensive products?
 
-- In each case of sales, profit and quantity October seems to be the best month. In case of margin, October and November also are the best months with a margin of 14%.
-
   ![image](https://github.com/user-attachments/assets/f81d00a9-6a1f-459b-8288-da9b42b3487d)
 
 #### Product Category
