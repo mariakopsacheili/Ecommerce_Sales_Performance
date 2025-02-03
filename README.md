@@ -15,14 +15,33 @@ SIKEAN's sales analysis of 113k records across 2021 and 2022 shows for 2022 that
 
 ### **Sales Trends and Growth Rates**
 
+#### Overall
+
 - SIKEAN averages $11.5 million in YTD sales with 107,200 orders.
 
 - Sales declined by 7.3% than previous year and that must be the outcome of the fact that COVID is close to its end and physical stores have start to reopen.
 
 - SIKEAN's 2022 YTD profit is around $1.34 million with YTD margin to reach 11.58%.
 
-- Both profit and margin is higher than 2021 with profit to be 4.5% more and margin surged 5.4% more. A further analysis is needed here in order to understand why we had less sales but more profit.
+- Both profit and margin is higher than 2021 with profit to be 4.5% more and margin surged 5.4% more. A further analysis is needed here in order to understand why we had less sales but more profit. Was it because we increased our product prices or because we had more sales on expensive products?
 
--  
+  ![image](https://github.com/user-attachments/assets/f81d00a9-6a1f-459b-8288-da9b42b3487d)
+
+#### Product Category
+
+- Office Suplies are the 60% of our total sales, same percentage as the previous year.
+
+- Office Suplies and Technology sales declined by 1.2-1.4% than previous year, when Furniture sales are 0.7% more than 2021.
+
+  ![image](https://github.com/user-attachments/assets/835e59af-6b42-475f-b945-6c00e3e94efa)
+
+#### Product Performance
+
+
+![image](https://github.com/user-attachments/assets/613c5267-6bfe-4403-89df-b9675be9c8dc)
+
+
+  
+
 
 ## **Recommendations**
