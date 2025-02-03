@@ -8,7 +8,8 @@ SIKEAN, a USA e-commerce company founded in 2018, specializes in selling  office
 
 SIKEAN's sales analysis of 113k records across 2021 and 2022 shows for 2022 that YTD (Year To Date) company's profit was around $ 1.34M that is 4.5% more than last year with YTD Margin to reach 11.6%, 5.4% more than 2021. However, the amount of sales is 7.3% less than 2021 with a YTD Quantity around 107K orders. We had less sales in the categories of Office Supplies and Technology and more sales in Furnitures than last year. Our Top selling category was Office Suplies with the top selling product to be staples.
 
- 
+ ![image](https://github.com/user-attachments/assets/9cf3122e-d588-421d-a845-c9198c6d9bd8)
+
 
 ## **Insights Deep Dive**
 
