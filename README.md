@@ -76,8 +76,8 @@ Adjustable height tables allow workers to alternate between sitting and standing
 So as an e-commerce company we can offer KI adjustable height tables with different kind of wood, quality and durability.
 
 - **Bundle & Subscription Offers for low performance products**:
- 1. Offer printer-paper bundles (e.g., "Buy a printer and get 2 reams of paper at 50% off")
- 2. Suggest related products at checkout using a recommendation system (e.g., Cisco phone accessories, file boxes with label packs)
- 3. Reevaluate pricing strategy
- 4. Promotional gifts
-  
+  1. Offer printer-paper bundles (e.g., "Buy a printer and get 2 reams of paper at 50% off")
+  2. Suggest related products at checkout using a recommendation system (e.g., Cisco phone accessories, file boxes with label packs)
+  3. Reevaluate pricing strategy
+  4. Promotional gifts
+   
