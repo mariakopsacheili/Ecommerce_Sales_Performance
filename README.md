@@ -56,7 +56,7 @@ SIKEAN's sales analysis of 113k records across 2021 and 2022 shows for 2022 that
 
   ![image](https://github.com/user-attachments/assets/afdc4868-27b7-49bf-80c7-300f5adfb979)
 
-- Home Office:
+- Home Office: Since people working remotely is becoming more and more common, especially now during COVID, the sales rise in furnitures and technology is something we were waiting for, since these people need the appropriate equipment including desks, chairs, laptops, headphones screens etc. This is something we can easily also see from the grpah with top 5 products by sales. 
 
   ![image](https://github.com/user-attachments/assets/32bd24c5-abc3-47dc-82a7-32915212b7a9)
 
