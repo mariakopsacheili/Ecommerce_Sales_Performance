@@ -64,10 +64,20 @@ SIKEAN's sales analysis of 113k records across 2021 and 2022 shows for 2022 that
 
 ## **Recommendations**
 
-### Maximazing Product Offerings
+### **Maximazing Product Offerings**
+
 - **Expand high performing categories**: Increase catalog variation in stamples and KI adjustable height tables since these categories had the best performance regarding YTD sales. Especially KI adjustable height tables are a very promising investment now, during the pandemic.
-Here are some of the reasons why: 
-  1. Rise of Hybrid and Remote Work especially during COVID: Many companies have adopted flexible work environments, requiring ergonomic furniture that supports both office and home setups. Also, employees want desks that adapt to their needs, whether working from home or in shared office spaces.
-  2. Increased Focus on Employee Health & Ergonomics: Prolonged sitting has been linked to health issues like back pain, poor posture, and cardiovascular risks.
+Here are some of the reasons why:
+
+  1. **Rise of Hybrid and Remote Work especially during COVID**: Many companies have adopted flexible work environments, requiring ergonomic furniture that supports both office and home setups. Also, employees want desks that adapt to their needs, whether working from home or in shared office spaces.
+  2. **Increased Focus on Employee Health & Ergonomics**: Prolonged sitting has been linked to health issues like back pain, poor posture, and cardiovascular risks.
 Adjustable height tables allow workers to alternate between sitting and standing, improving circulation and reducing discomfort.
+
+So as an e-commerce company we can offer KI adjustable height tables with different kind of wood, quality and durability.
+
+- **Bundle & Subscription Offers for low performance products**:
+ - Offer printer-paper bundles (e.g., "Buy a printer and get 2 reams of paper at 50% off")
+ - Suggest related products at checkout using a recommendation system (e.g., Cisco phone accessories, file boxes with label packs)
+ - Reevaluate pricing strategy
+ - Promotional gifts
   
