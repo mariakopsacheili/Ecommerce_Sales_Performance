@@ -48,8 +48,7 @@ SIKEAN's sales analysis of 113k records across 2021 and 2022 shows for 2022 that
 
 #### Customer Segment
 
-- Consumers: Consumers, that present almost half of our total customers,
-
+- Consumers: Consumers, that present almost half of our total customers, seems for 2022, that they care more about furniture upgrading with technology to drop by 2.5% and office suplies drop by 0.7% . We also had a drop on YTD quantity by 6.6% and on the other hand a 8% more YTD profit and a 8.6% more YTD margin that reached almost 12%.
   ![image](https://github.com/user-attachments/assets/9b23667f-b7f4-439f-b6c1-e5aa9535db9a)
 
 - Corporate:
