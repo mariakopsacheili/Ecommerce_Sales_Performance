@@ -1,6 +1,6 @@
 # **SIKEAN Sales Performance Analysis 2022**
 
-## **Project Backround**
+## **Hypothetical Scenario**
 
 SIKEAN, a USA e-commerce company founded in 2018, specializes in selling  office supplies, furniture and technology products. I'm partnering with the Head of Operations to perform analysis and extract insights for company's sales performance of 2022 and deliver recommendations to improve performance across sales, product and marketing teams.
 
